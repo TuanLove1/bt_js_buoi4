@@ -1,0 +1,13 @@
+.all {
+    text-align: center;
+}
+.thongbao{
+    text-align: center;
+    background-color: red;
+    font-size: 30px;
+    color: white;
+    margin-top: 20px;
+}
+#name{
+    width: 300px;
+}
